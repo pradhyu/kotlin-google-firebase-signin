@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/pkshrestha/workspace/Machine-Learning-by-Stanford-University/AuthGoogle/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/pkshrestha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f5598e7c5915a059728b56a759cd1219/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
